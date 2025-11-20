@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Itz-Shadman/Itz-Shadman/blob/main/github.jpg" alt="Banner" />
+</p>
 
 <h1 align="center">Hi, I'm Shadman👋</h1>
 <h3 align="center">Frontend Developer</h3>
